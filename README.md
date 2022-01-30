@@ -2,7 +2,7 @@
 
 This repository consists of 100 days of python source code and practice . 
 
-This is a practice repo which wil take you from 0 to a professional python developer in 100 days .
+This is a practice repo wil take you from 0 to a professional python developer in 100 days .
 
 Requirements :
 
